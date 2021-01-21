@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Awesome Bootcamp
+![Faang](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fd7793444-3178-11ea-9703-eea0cae3f0de?fit=scale-down&source=next&width=640)
 
-You can use the [editor on GitHub](https://github.com/AwesomeBootcamp/AwesomeBootcamp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
