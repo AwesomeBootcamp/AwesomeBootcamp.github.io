@@ -7,7 +7,7 @@
 * Hands on approach to learning with live coding classes
 * Multiple Case Studies and Assignments
 * Weekend and Weekday batches
-* Duration: 16 Weeks | 160 Hours includes 80 hours Lectures and 80 hours Labs
+* Duration: 16 Weeks; 160 Hours; 80 hours Lectures; 80 hours Labs
   * 1 hour on weekdays (Mon-Fri)
   * 2.5 hours on weekends (Sat-Sun)
 * Delivery Mode: Instructor-Led, Online
