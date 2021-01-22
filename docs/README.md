@@ -2,12 +2,13 @@
 ![Faang](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fd7793444-3178-11ea-9703-eea0cae3f0de?fit=scale-down&source=next&width=640)
 
 ## Program Overview
+* Pre-requisite: Basic programming knowledge in any language (No prior Python or Machine Learning knowledge required)
 * Desgined for working professionals
 * Hands on approach to learning with live coding classes
 * Multiple Case Studies and Assignments
 * Weekend and Weekday batches
 * Duration: 16 Weeks
-* Competitive fee strcture
+* Competitive fees
 
 ## Machine Learning for professionals
 * Essentials
