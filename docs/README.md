@@ -36,13 +36,15 @@
   * Case Study
 * Capston Project
 
-## Course duration
+***
+
 * Course duration: 4 Months (16 Weeks); 160 Hours; 80 hours Lectures; 80 hours Labs
   * 1 hour on weekdays (Mon-Fri)
   * 2.5 hours on weekends (Sat-Sun)
 * Course fee (Rs.199 per hour)
 
-#### About your Instructor: Software professional with more than two decades of experince in most prestigious (FAANG) product compaines. He has been shareing his knoweldge with fellow developers, architects and senior leaders for more than 10 years now.
+### About your Instructor:
+#### Software professional with more than two decades of experince in most prestigious (FAANG) product compaines. He has been shareing his knoweldge with fellow developers, architects and senior leaders for more than 10 years now.
 
 ***
 ### Contact **awesomebootcamp@gmail.com** or **training@buddhatree.in** to register
