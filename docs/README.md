@@ -11,7 +11,7 @@
   * 1 hour on weekdays (Mon-Fri)
   * 2.5 hours on weekends (Sat-Sun)
 * Delivery Mode: Instructor-Led, Online
-* Competitive fees
+* Course fee (Rs.199 per hour)
 
 ## Machine Learning for professionals
 * Essentials
