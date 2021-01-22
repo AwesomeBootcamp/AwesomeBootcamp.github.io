@@ -3,7 +3,7 @@
 
 ## Program Overview
 * Pre-requisite: Basic programming knowledge in any language (No prior Python or Machine Learning knowledge required)
-* Desgined for working professionals
+* Designed for working professionals
 * Hands on approach to learning with live coding classes
 * Multiple Case Studies and Assignments
 * Weekend and Weekday batches
@@ -14,7 +14,7 @@
 * Essentials
   * Introduction to Python
   * Python for Data Science
-  * Data Visalisation in Python
+  * Data Visualisation
 * Statistics
   * Data Analysis
     * Assignment
@@ -32,9 +32,9 @@
   * Tree Models
   * Model Selection
   * Boosting
-  * Clustring
+  * Clustering
   * Case Study
-* Capston Project
+* Capstone Project
 
 ***
 
@@ -44,8 +44,9 @@
 * Course fee (Rs.199 per hour)
 
 ### About your Instructor:
-#### Software professional with more than two decades of experince in most prestigious (FAANG) product compaines. He has been shareing his knoweldge with fellow developers, architects and senior leaders for more than 10 years now.
+#### Software professional with more than two decades of experience in prestigious (FAANG) product companies. He has been sharing his knowledge with fellow developers, architects and senior leaders for more than 10 years now.
 
 ***
-### Contact **awesomebootcamp@gmail.com** or **training@buddhatree.in** to register
+### Register at **training@buddhatree.in**
+### Contact Us at **awesomebootcamp@gmail.com**
 ***
