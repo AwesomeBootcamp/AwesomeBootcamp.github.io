@@ -12,6 +12,7 @@
   * 2.5 hours on weekends (Sat-Sun)
 * Delivery Mode: Instructor-Led, Online
 * Course fee (Rs.199 per hour)
+* Limited Seats on first come first serve basis  (It is instructor-led; not a MOOC)
 
 ## Machine Learning for professionals
 * Essentials
@@ -39,6 +40,8 @@
   * Case Study
 * Capston Project
 
+### About your Instructor: Software professional with more than two decades of experince in most prestigious (FAANG) product compaines. He has been shareing his knoweldge with fellow developers, architects and senior leaders for more than 10 years now.
+
 ***
-### Contact Us training@buddhatree.in
+### Contact **training@buddhatree.in** to register
 ***
