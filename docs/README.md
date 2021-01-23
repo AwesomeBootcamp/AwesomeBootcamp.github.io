@@ -1,6 +1,8 @@
 ## You don't need _permission_ to be **Awesome**
 ![Faang](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fd7793444-3178-11ea-9703-eea0cae3f0de?fit=scale-down&source=next&width=640)
 
+## [Register](https://forms.gle/8rD1PFsy7DX7qLP17)
+
 ## Program Overview
 * Pre-requisite: Basic programming knowledge in any language (No prior Python or Machine Learning knowledge required)
 * Designed for working professionals
@@ -41,12 +43,15 @@
 * Course duration: 4 Months (16 Weeks); 160 Hours; 80 hours Lectures; 80 hours Labs
   * 1 hour on weekdays (Mon-Fri)
   * 2.5 hours on weekends (Sat-Sun)
-* Course fee (Rs.199 per hour)
+* Course fee: Rs.199 per hour only
+
+## [Register](https://forms.gle/8rD1PFsy7DX7qLP17)
 
 ### About your Instructor:
 #### Software professional with more than two decades of experience in prestigious (FAANG) product companies. He has been sharing his knowledge with fellow developers, architects and senior leaders for more than 10 years now.
 
 ***
-### Register at **training@buddhatree.in**
+
 ### Contact Us at **awesomebootcamp@gmail.com**
+### Corporates contact at **training@buddhatree.in**
 ***
